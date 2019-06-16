@@ -1,5 +1,5 @@
 # Interview Homework (Phone Number Change)
-#### William R DeLuca
+#### William DeLuca
 
 ### Pipeline Bash Script
 The following script written in bash can be copy and pasted into the terminal to perform the phone number alterations.
