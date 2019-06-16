@@ -29,7 +29,7 @@ task :make_sample_files do
 
     mkdir_p TESTING_DIRECTORY
 
-    10000.times do |i|
+    70000.times do |i|
 
         html_template   = HTML_TEMPLATES.sample                 # Choose 1 of the available templates
         sample_number   = ORG_PHONE_NUMBERS.sample              # Choose 1 of the available phone number samples
