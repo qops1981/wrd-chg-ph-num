@@ -1,6 +1,9 @@
 # Interview Homework (Phone Number Change)
 #### William DeLuca
 
+### Gem Dependencies
+* `rake`
+
 ### Pipeline Bash Script
 The following script written in bash can be copy and pasted into the terminal to perform the phone number alterations.
 ```bash
